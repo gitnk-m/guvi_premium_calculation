@@ -1,0 +1,13 @@
+data preprocessing
+#   1 understanding the data with domain knowledge
+#   2 address the spelling mistake
+#   3 remove unnecessary characters and symbols
+#   4 Handling  the null values
+#   5 Handling duplicates
+#   6 convert Date Time into pandas understandable format
+#   7 data type conversion
+#   8 convert object/string to meaningful numeric values (encoding)
+9 handle logicially incorrect
+10 correlation test , Hypothesis test
+11 skewness , kurtosis,handling outliers
+12 ML, DL
