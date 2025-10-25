@@ -1,0 +1,42 @@
+Linear Regression Model Results
+MAE :  38.288196067006595
+MSE :  2355.9592635407166
+R2 :  0.0
+
+Random Forest Regressor Model Results
+MAE :  70.76732990824887
+MSE :  10066.538072061432
+R2 :  0.0
+
+XGB Regressor Model Results
+MAE :  110.52195753162145
+MSE :  29096.25226630229
+R2 :  0.0
+
+Decision Tree Regressor Model Results
+MAE :  714.673794125
+MSE :  867968.9952271875
+R2 :  0.0
+
+############################################################
+Splited Model
+
+Linear Regression Model Results
+MAE :  666.1192728280249
+MSE :  742687.1815344999
+R2 :  0.0026515611817746754
+
+Random Forest Regressor Model Results
+MAE :  656.9154057918878
+MSE :  728448.6239856918
+R2 :  0.02729420008815686
+
+XGB Regressor Model Results
+MAE :  646.4192419354439
+MSE :  716646.8535969144
+R2 :  0.03759521448319103
+
+Decision Tree Regressor Model Results
+MAE :  910.9957041666667
+MSE :  1548374.0815541667
+R2 :  -1.0706355470005042
